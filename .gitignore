@@ -1,0 +1,9 @@
+# Logs
+logs.txt
+
+
+# Track the PS config file
+!/data/DATA/config.js
+
+# Modules
+node_modules/
